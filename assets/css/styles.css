@@ -814,7 +814,7 @@ body.dark-theme {
 /*=============== SCROLL BAR ===============*/
 
 ::-webkit-scrollbar {
-  width: 6rem;
+  width: 0.6rem;
   background-color: hsl(var(--hue), 20%, 85%);
 }
 ::-webkit-scrollbar-thumb {
