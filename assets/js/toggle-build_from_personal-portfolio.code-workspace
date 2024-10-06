@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../00_module-builds"
+		}
+	],
+	"settings": {}
+}
