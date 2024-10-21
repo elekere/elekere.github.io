@@ -225,7 +225,9 @@ body.dark-theme {
 }
 
 .perfil__img {
-  width: 150px;
+  width: 450px;
+  /* height: 350px; */
+  scale: 1.05;
 }
 
 .main {
