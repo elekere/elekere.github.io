@@ -130,7 +130,6 @@ img {
   display: block;
   width: 100%;
   height: 100%;
-  scale: 1.02;
 }
 
 /*=============== THEME ===============*/
@@ -999,7 +998,7 @@ body.dark-theme {
   }
 
   .perfil__img {
-    width: 300px;
+    width: 350px;
   }
 
   .home__rectangle {
