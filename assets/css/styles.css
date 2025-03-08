@@ -202,7 +202,7 @@ body.dark-theme {
   height: 250px;
   background-color: var(--body-color);
   border: 8px solid var(--first-color);
-  border-radius: 50%;
+  /* border-radius: 50%; */
   display: grid;
   place-items: center;
   transition: background-color 0.4s;
@@ -212,7 +212,7 @@ body.dark-theme {
   width: 180px;
   height: 180px;
   border: 10px solid var(--first-color);
-  border-radius: 50%;
+  /* border-radius: 50%; */
   overflow: hidden;
   display: flex;
   justify-content: center;
